@@ -1,2 +1,2 @@
 # execlp1
-Example usage of execlp using predefined commands.
+Example usage of execlp
