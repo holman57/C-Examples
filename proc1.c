@@ -16,18 +16,19 @@ int main()
 
     printf("\t( pid = %d )\n", pid);
 
-    // Parent
     if (pid > 0)
     {
+        // Parent
         for (i = 0; i < random; i++)
             printf("PARENT %d\n", i);
     }
-    // Child
     else
     {
+        // Child
         for (i = 0; i < random; i++)
             printf("CHILD %d\n", i);
     }
 
     return 0;
 }
+
