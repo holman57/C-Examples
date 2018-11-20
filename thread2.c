@@ -80,9 +80,9 @@ int main(void)
         //
         //       The initial value of the new thread's CPU-time clock is 0 (see
         //       pthread_getcpuclockid(3)).
-        error = pthread_create(&(thread_id[i]), NULL, &report, NULL);
+        error = pthread_create(&thread_id[i], NULL, &report, NULL);
         if (error != 0)
-            printf("\nThread can't be created : [%s]", strerror(error));
+            printf("\nThread can't be created: %s", strerror(error));
 
         i++;
     }
