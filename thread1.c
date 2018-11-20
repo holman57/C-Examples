@@ -80,3 +80,4 @@ void *update_value(void *arg)
     //       atexit(3) are called.
     pthread_exit(count);
 }
+
