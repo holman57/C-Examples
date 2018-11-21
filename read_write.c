@@ -16,6 +16,7 @@ int main()
     if (fork() == 0)
     {
         // Child
+        
         close(fd[READ]);
 
         // ssize_t write(int fd, const void *buf, size_t count);
@@ -48,6 +49,7 @@ int main()
     else
     {
         // Parent
+        
         close(fd[WRITE]);
 
         // ssize_t read(int fd, void *buf, size_t count);
@@ -69,6 +71,7 @@ int main()
         // terminal), or because read() was interrupted by a signal. On error, -1 is returned, and errno is 
         // set appropriately. In this case it is left unspecified whether the file position (if any) changes. 
         bytesRead = (int) read(fd[READ], message, 100);
+        
         printf("Parent just read %i bytes: %s\n", bytesRead, message);
         close(fd[READ]);
     }
