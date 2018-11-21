@@ -87,9 +87,16 @@ int main(int argc, char* argv[])
     close(fd);
 
     // Invoke program; will inherit stdout
+    
+    // When execvp() is executed, the program file given by the first argument will be loaded into 
+    // the caller's address space and over-write the program there. Then, the second argument will 
+    // be provided to the program and starts the execution. As a result, once the specified program 
+    // file starts its execution, the original program in the caller's address space is gone and is 
+    // replaced by the new program. 
     execvp(argv[2], &argv[2]);
 
     // Should never execute
     perror("main");
 }
+
 
