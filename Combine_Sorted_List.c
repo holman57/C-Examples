@@ -49,7 +49,6 @@ struct ListNode *mergeTwoLists(struct ListNode *l1, struct ListNode *l2) {
             l1 = l1->next;
         }
     }
-
     for (i = 0; l2; i++) {
         p->next = l2;
         p = p->next;
