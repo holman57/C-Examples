@@ -40,4 +40,17 @@ How expensive is integer-overflow trapping in C++?
 SCC
 - SCC is a limited C compiler producing tiny-model DOS COM files. It should run on most operating systems and can self-host under DOS2.0+ compatible systems with 128K RAM https://github.com/mras0/scc
 
+w64devkit
+- Portable C and C++ Development Kit for x64 Windows https://nullprogram.com/blog/2020/09/25/
 
+Urkel 
+- An optimized and cryptographically provable key-value store. Written in C. https://github.com/chjj/liburkel
+
+---
+
+### Linear Algebra
+
+- Are there any C++ (or C) libs that have NumPy-like arrays with support for slicing, vectorized operations, adding and subtracting contents element-by-element, etc.? https://stackoverflow.com/questions/11169418/numpy-style-arrays-for-c/40448758
+
+XTensor
+- Linear Algebra In C++ With XTensor Is Just Like Numpy https://towardsdatascience.com/linear-algebra-in-c-with-xtensor-is-just-like-numpy-1a6b1ee00736
