@@ -54,3 +54,10 @@ Urkel
 
 XTensor
 - Linear Algebra In C++ With XTensor Is Just Like Numpy https://towardsdatascience.com/linear-algebra-in-c-with-xtensor-is-just-like-numpy-1a6b1ee00736
+
+---
+
+### Articles
+
+1. Is the C runtime and library a legitimate part of the Unix API? https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIAndCRuntime
+
