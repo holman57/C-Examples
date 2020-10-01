@@ -1,16 +1,7 @@
-## Example usage of the exec family of functions in conjunction with forking, file descriptor manipulation, threading, and sockets.
-- exec
 
-Example usage of execlp()
+## C Examples 
+#### The `exec` family of functions in conjunction with forking, file descriptors, threading, and sockets.
 
-- fork
-
-Examples of fork()
-
-- pipe
-- thread
-- mutex
-- Sockets
 
 hackr.io
 C Tutorials and Courses
@@ -25,6 +16,8 @@ C Tutorials and Courses
 Learn C
 - As C is a veteran programming languages there are tons of C communities, forums and tutorials. Top 10 Best C Tutorials. https://medium.com/hackr-io/learn-c-best-c-tutorials-for-beginners-949835f3f20a
 
+C++: The Good Parts
+- Jordan DeLong overviews the past, current and near future "good parts" of C++'s functional side through the colored lens of his biases. https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus
 
 ---
 
