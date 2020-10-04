@@ -39,6 +39,9 @@ w64devkit
 Urkel 
 - An optimized and cryptographically provable key-value store. Written in C. https://github.com/chjj/liburkel
 
+chibicc: A Small C Compiler
+- chibicc is yet another small C compiler that implements most C11 features. Even though it still probably falls into the "toy compilers" category just like other small compilers do, chibicc can compile several real-world programs, including Git, SQLite and libpng, without making modifications to the compiled programs. https://github.com/rui314/chibicc
+
 ---
 
 ### Linear Algebra
