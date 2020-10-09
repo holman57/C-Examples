@@ -42,6 +42,10 @@ Urkel
 chibicc: A Small C Compiler
 - chibicc is yet another small C compiler that implements most C11 features. Even though it still probably falls into the "toy compilers" category just like other small compilers do, chibicc can compile several real-world programs, including Git, SQLite and libpng, without making modifications to the compiled programs. https://github.com/rui314/chibicc
 
+Frama-C
+- An extensible and collaborative platform dedicated to source-code analysis of C software. http://frama-c.com/index.html
+
+
 ---
 
 ### Linear Algebra
@@ -57,3 +61,4 @@ XTensor
 
 1. Is the C runtime and library a legitimate part of the Unix API? https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIAndCRuntime
 2. What does I/O bound really mean? Erik Engbrecht's Blog http://erikengbrecht.blogspot.com/2008/06/what-does-io-bound-really-mean.html?m=1
+3. The Jim Roskind C/C++ Grammar https://blog.robertelder.org/jim-roskind-grammar/
