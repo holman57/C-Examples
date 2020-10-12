@@ -62,3 +62,5 @@ XTensor
 1. Is the C runtime and library a legitimate part of the Unix API? https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIAndCRuntime
 2. What does I/O bound really mean? Erik Engbrecht's Blog http://erikengbrecht.blogspot.com/2008/06/what-does-io-bound-really-mean.html?m=1
 3. The Jim Roskind C/C++ Grammar https://blog.robertelder.org/jim-roskind-grammar/
+4. Overloading by Return Type in C++ https://artificial-mind.net/blog/2020/10/10/return-type-overloading
+
