@@ -67,4 +67,6 @@ XTensor
 3. The Jim Roskind C/C++ Grammar https://blog.robertelder.org/jim-roskind-grammar/
 4. Overloading by Return Type in C++ https://artificial-mind.net/blog/2020/10/10/return-type-overloading
 5. Does C++ still deserve the bad rap it has had for so long? https://nibblestew.blogspot.com/2020/10/does-c-still-deserve-bad-rap-it-has-had.html
+6. No, C++ still isn't cutting it. https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html
+
 
