@@ -48,6 +48,8 @@ chibicc: A Small C Compiler
 Frama-C
 - An extensible and collaborative platform dedicated to source-code analysis of C software. http://frama-c.com/index.html
 
+RISC-V userspace emulator library
+- https://github.com/fwsGonzo/libriscv
 
 ---
 
