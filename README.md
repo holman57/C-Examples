@@ -72,5 +72,12 @@ XTensor
 6. No, C++ still isn't cutting it. https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html
 7. What's Wrong with C++ Templates? http://people.cs.uchicago.edu/~jacobm/pubs/templates.html
 
+---
+
+### Papers
+
+1. Compiling without Continuations https://dl.acm.org/doi/10.1145/3062341.3062380
+ 
+
 
 
