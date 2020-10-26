@@ -7,6 +7,9 @@ hackr.io
 C Tutorials and Courses
 - https://hackr.io/tutorials/learn-c
 
+Single-file public-domain/open source libraries with minimal dependencies
+- a list of small, easy-to-integrate, portable libraries which are usable from C and/or C++ https://github.com/nothings/single_file_libs
+
 Building Your Own C Interpreter
 - https://www.drdobbs.com/cpp/building-your-own-c-interpreter/184408184
 
