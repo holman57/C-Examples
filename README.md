@@ -7,6 +7,9 @@ hackr.io
 C Tutorials and Courses
 - https://hackr.io/tutorials/learn-c
 
+The Archive of Interesting Code
+- The Archive of Interesting Code is an effort on my part to code up interesting algorithms and data structures. https://www.keithschwarz.com/interesting/
+
 Single-file public-domain/open source libraries with minimal dependencies
 - a list of small, easy-to-integrate, portable libraries which are usable from C and/or C++ https://github.com/nothings/single_file_libs
 
@@ -74,6 +77,8 @@ XTensor
 5. Does C++ still deserve the bad rap it has had for so long? https://nibblestew.blogspot.com/2020/10/does-c-still-deserve-bad-rap-it-has-had.html
 6. No, C++ still isn't cutting it. https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html
 7. What's Wrong with C++ Templates? http://people.cs.uchicago.edu/~jacobm/pubs/templates.html
+8. Multi-Level Break in C++ via IIFE https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife
+
 
 ---
 
