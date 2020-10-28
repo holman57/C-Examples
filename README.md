@@ -80,7 +80,7 @@ XTensor
 ### Papers
 
 1. Compiling without Continuations https://dl.acm.org/doi/10.1145/3062341.3062380
- 
+2. HardBound: Architectural Support for Spatial Safety of the C Programming Language https://dl.acm.org/doi/pdf/10.1145/1353535.1346295
 
 
 
