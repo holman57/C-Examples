@@ -86,6 +86,6 @@ XTensor
 
 1. Compiling without Continuations https://dl.acm.org/doi/10.1145/3062341.3062380
 2. HardBound: Architectural Support for Spatial Safety of the C Programming Language https://dl.acm.org/doi/pdf/10.1145/1353535.1346295
-
+3. Program Analysis and Specialization for the C Programming Language https://www.semanticscholar.org/paper/Program-Analysis-and-Specialization-for-the-C-Andersen-Lee/b7efe971a34a0f2482e0b2520ffb31062dcdde62
 
 
