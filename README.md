@@ -78,7 +78,7 @@ XTensor
 6. No, C++ still isn't cutting it. https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html
 7. What's Wrong with C++ Templates? http://people.cs.uchicago.edu/~jacobm/pubs/templates.html
 8. Multi-Level Break in C++ via IIFE https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife
-
+9. Fast programming languages: C, C++, Rust, and Assembly http://tempesta-tech.com/blog/fast-programming-languages-c-c++-rust-assembly
 
 ---
 
