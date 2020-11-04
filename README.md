@@ -10,6 +10,9 @@ C Tutorials and Courses
 The Archive of Interesting Code
 - The Archive of Interesting Code is an effort on my part to code up interesting algorithms and data structures. https://www.keithschwarz.com/interesting/
 
+Dear ImGui – Bloat-free graphical user interface library for C++
+- Dear ImGui is designed to enable fast iterations and to empower programmers to create content creation tools and visualization / debug tools https://github.com/ocornut/imgui
+
 Single-file public-domain/open source libraries with minimal dependencies
 - a list of small, easy-to-integrate, portable libraries which are usable from C and/or C++ https://github.com/nothings/single_file_libs
 
@@ -24,8 +27,6 @@ Learn C
 
 C++: The Good Parts
 - Jordan DeLong overviews the past, current and near future "good parts" of C++'s functional side through the colored lens of his biases. https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus
-
----
 
 How Does a C Debugger Work? (GDB Ptrace/x86 example)
 - Linux ptrace API allows a (debugger) process to access low-level information about another process (the debuggee). https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work
