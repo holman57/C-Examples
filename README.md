@@ -16,6 +16,11 @@ Dear ImGui – Bloat-free graphical user interface library for C++
 Single-file public-domain/open source libraries with minimal dependencies
 - a list of small, easy-to-integrate, portable libraries which are usable from C and/or C++ https://github.com/nothings/single_file_libs
 
+Cdecl, the C gibberish translator
+- Cdecl is a program which will turn English-like phrases such as "declare
+  foo as array 5 of pointer to function returning int" into C declarations
+  such as `int (*foo[5])()` https://cdecl.org/ [[source](https://github.com/ridiculousfish/cdecl-blocks)]
+
 Building Your Own C Interpreter
 - https://www.drdobbs.com/cpp/building-your-own-c-interpreter/184408184
 
