@@ -33,6 +33,9 @@ Learn C
 C++: The Good Parts
 - Jordan DeLong overviews the past, current and near future "good parts" of C++'s functional side through the colored lens of his biases. https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus
 
+consteval in C++17
+- A common misconception is that constexpr functions are evaluated during compilation and not during runtime. In reality, a constexpr function makes it possible to be evaluated at compile time without guaranteeing it. https://artificial-mind.net/blog/2020/11/14/cpp17-consteval
+
 How Does a C Debugger Work? (GDB Ptrace/x86 example)
 - Linux ptrace API allows a (debugger) process to access low-level information about another process (the debuggee). https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work
 
