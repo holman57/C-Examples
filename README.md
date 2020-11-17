@@ -30,6 +30,9 @@ C Tutorials and Courses
 Learn C
 - As C is a veteran programming languages there are tons of C communities, forums and tutorials. Top 10 Best C Tutorials. https://medium.com/hackr-io/learn-c-best-c-tutorials-for-beginners-949835f3f20a
 
+Best aspects of C language
+- Low-level languages are harder to program in. Not because they are more complicated, but because they are more error prone and thus require way more commitment, memorizing and fiddling. https://blog.joren.ga/programming/best-of-c
+
 C++: The Good Parts
 - Jordan DeLong overviews the past, current and near future "good parts" of C++'s functional side through the colored lens of his biases. https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus
 
