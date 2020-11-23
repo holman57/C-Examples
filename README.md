@@ -71,6 +71,9 @@ Frama-C
 RISC-V userspace emulator library
 - https://github.com/fwsGonzo/libriscv
 
+Loopy C Puzzle
+- https://susam.in/blog/loopy-c-puzzle/
+
 ---
 
 ### Linear Algebra
