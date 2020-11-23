@@ -2,6 +2,8 @@
 ## C Examples 
 #### The `exec` family of functions in conjunction with forking, file descriptors, threading, and sockets.
 
+What is your favorite C programming trick?
+- https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick
 
 hackr.io
 C Tutorials and Courses
