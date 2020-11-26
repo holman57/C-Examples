@@ -2,6 +2,9 @@
 ## C Examples 
 #### The `exec` family of functions in conjunction with forking, file descriptors, threading, and sockets.
 
+Xrepo
+- A modern cross-platform C/C++ package manager https://tboox.org/2020/11/15/xrepo-new-command/ https://github.com/xmake-io/xrepo
+
 What is your favorite C programming trick?
 - https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick
 
