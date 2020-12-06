@@ -73,6 +73,7 @@ XTensor
 1. Is the C runtime and library a legitimate part of the Unix API? https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIAndCRuntime
 1. What does I/O bound really mean? Erik Engbrecht's Blog http://erikengbrecht.blogspot.com/2008/06/what-does-io-bound-really-mean.html?m=1
 1. The Jim Roskind C/C++ Grammar https://blog.robertelder.org/jim-roskind-grammar/
+1. A Special Kind of Hell - intmax_t in C and C++ https://thephd.github.io/intmax_t-hell-c++-c
 1. Overloading by Return Type in C++ https://artificial-mind.net/blog/2020/10/10/return-type-overloading
 1. Does C++ still deserve the bad rap it has had for so long? https://nibblestew.blogspot.com/2020/10/does-c-still-deserve-bad-rap-it-has-had.html
 1. No, C++ still isn't cutting it. https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html
