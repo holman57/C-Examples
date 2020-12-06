@@ -71,21 +71,21 @@ XTensor
 ### Articles
 
 1. Is the C runtime and library a legitimate part of the Unix API? https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIAndCRuntime
-2. What does I/O bound really mean? Erik Engbrecht's Blog http://erikengbrecht.blogspot.com/2008/06/what-does-io-bound-really-mean.html?m=1
-3. The Jim Roskind C/C++ Grammar https://blog.robertelder.org/jim-roskind-grammar/
-4. Overloading by Return Type in C++ https://artificial-mind.net/blog/2020/10/10/return-type-overloading
-5. Does C++ still deserve the bad rap it has had for so long? https://nibblestew.blogspot.com/2020/10/does-c-still-deserve-bad-rap-it-has-had.html
-6. No, C++ still isn't cutting it. https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html
-7. What's Wrong with C++ Templates? http://people.cs.uchicago.edu/~jacobm/pubs/templates.html
-8. Multi-Level Break in C++ via IIFE https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife
-
+1. What does I/O bound really mean? Erik Engbrecht's Blog http://erikengbrecht.blogspot.com/2008/06/what-does-io-bound-really-mean.html?m=1
+1. The Jim Roskind C/C++ Grammar https://blog.robertelder.org/jim-roskind-grammar/
+1. Overloading by Return Type in C++ https://artificial-mind.net/blog/2020/10/10/return-type-overloading
+1. Does C++ still deserve the bad rap it has had for so long? https://nibblestew.blogspot.com/2020/10/does-c-still-deserve-bad-rap-it-has-had.html
+1. No, C++ still isn't cutting it. https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html
+1. What's Wrong with C++ Templates? http://people.cs.uchicago.edu/~jacobm/pubs/templates.html
+1. Multi-Level Break in C++ via IIFE https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife
+1. Fast programming languages: C, C++, Rust, and Assembly http://tempesta-tech.com/blog/fast-programming-languages-c-c++-rust-assembly
 
 ---
 
 ### Papers
 
+1. C source-to-source compiler enhancement from within https://hal.inria.fr/hal-02998412
 1. Compiling without Continuations https://dl.acm.org/doi/10.1145/3062341.3062380
-2. HardBound: Architectural Support for Spatial Safety of the C Programming Language https://dl.acm.org/doi/pdf/10.1145/1353535.1346295
-
-
-
+1. HardBound: Architectural Support for Spatial Safety of the C Programming Language https://dl.acm.org/doi/pdf/10.1145/1353535.1346295
+1. Program Analysis and Specialization for the C Programming Language https://www.semanticscholar.org/paper/Program-Analysis-and-Specialization-for-the-C-Andersen-Lee/b7efe971a34a0f2482e0b2520ffb31062dcdde62
+1. The Semantics of the C Programming Language http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6755&rep=rep1&type=pdf
