@@ -80,11 +80,13 @@ XTensor
 1. What's Wrong with C++ Templates? http://people.cs.uchicago.edu/~jacobm/pubs/templates.html
 1. Multi-Level Break in C++ via IIFE https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife
 1. Fast programming languages: C, C++, Rust, and Assembly http://tempesta-tech.com/blog/fast-programming-languages-c-c++-rust-assembly
+1. Why nullable types? https://medium.com/dartlang/why-nullable-types-7dd93c28c87a
 
 ---
 
 ### Papers
 
+1. The Evolution of C Programming Practices: A Study of the Unix Operating System 1973-2015 https://ieeexplore.ieee.org/abstract/document/7886953
 1. C source-to-source compiler enhancement from within https://hal.inria.fr/hal-02998412
 1. Compiling without Continuations https://dl.acm.org/doi/10.1145/3062341.3062380
 1. HardBound: Architectural Support for Spatial Safety of the C Programming Language https://dl.acm.org/doi/pdf/10.1145/1353535.1346295
