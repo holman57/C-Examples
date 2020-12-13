@@ -35,6 +35,9 @@ C++: The Good Parts
 How Does a C Debugger Work? (GDB Ptrace/x86 example)
 - Linux ptrace API allows a (debugger) process to access low-level information about another process (the debuggee). https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work
 
+Bit Manipulation with C++20
+- the class std::source_location http://www.modernescpp.com/index.php/bit-manipulation-with-c-20
+
 libcu++
 - the NVIDIA C++ Standard Library, is the C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code. https://github.com/NVIDIA/libcudacxx
 
