@@ -10,6 +10,11 @@ C Tutorials and Courses
 The Archive of Interesting Code
 - The Archive of Interesting Code is an effort on my part to code up interesting algorithms and data structures. https://www.keithschwarz.com/interesting/
 
+Garbage Collection Algorithms
+- http://dmitrysoshnikov.com/courses/essentials-of-garbage-collectors/
+  - Writing a Memory Allocator
+    - This is the 6th lecture from the Garbage Collection Algorithms class, devoted to the automatic memory management. http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/
+
 Single-file public-domain/open source libraries with minimal dependencies
 - a list of small, easy-to-integrate, portable libraries which are usable from C and/or C++ https://github.com/nothings/single_file_libs
 
@@ -32,7 +37,7 @@ How Does a C Debugger Work? (GDB Ptrace/x86 example)
 
 libcu++
 - the NVIDIA C++ Standard Library, is the C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code. https://github.com/NVIDIA/libcudacxx
- 
+
 The Little Things
 - Speeding up C++ compilation https://codingnest.com/the-little-things-speeding-up-c-compilation/
 
