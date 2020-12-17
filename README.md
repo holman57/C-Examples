@@ -24,6 +24,9 @@ Building Your Own C Interpreter
 C Tutorials and Courses
 - Learn C programming online from the best C tutorials submitted and voted by the programming community. https://hackr.io/tutorials/learn-c
 
+Getting started with C programming
+- A mac based lightning-fast start for absolute beginners https://not.cafe/2020/10/12/getting-started-with-c-programming.html
+
 Learn C
 - As C is a veteran programming languages there are tons of C communities, forums and tutorials. Top 10 Best C Tutorials. https://medium.com/hackr-io/learn-c-best-c-tutorials-for-beginners-949835f3f20a
 
