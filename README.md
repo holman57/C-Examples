@@ -33,6 +33,12 @@ Learn C
 C++: The Good Parts
 - Jordan DeLong overviews the past, current and near future "good parts" of C++'s functional side through the colored lens of his biases. https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus
 
+Orthodox C++
+- Orthodox C++ (sometimes referred as C+) is minimal subset of C++ that improves C, but avoids all unnecessary things from so called Modern C++. https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b#file-orthodoxc-md
+
+Cosmopolitan libc
+- Build-once run-anywhere c without devops https://justine.lol/cosmopolitan/index.html
+
 ---
 
 How Does a C Debugger Work? (GDB Ptrace/x86 example)
