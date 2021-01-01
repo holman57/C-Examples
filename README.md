@@ -74,6 +74,9 @@ Frama-C
 RISC-V userspace emulator library
 - https://github.com/fwsGonzo/libriscv
 
+A little puzzle with printf() and C argument passing
+- https://utcc.utoronto.ca/~cks/space/blog/programming/PrintfAndArgumentPassing
+
 ---
 
 ### Linear Algebra
