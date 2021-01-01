@@ -39,6 +39,9 @@ Orthodox C++
 Cosmopolitan libc
 - Build-once run-anywhere c without devops https://justine.lol/cosmopolitan/index.html
 
+concurrencpp, the C++ concurrency library
+- concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines. https://github.com/David-Haim/concurrencpp
+
 ---
 
 How Does a C Debugger Work? (GDB Ptrace/x86 example)
