@@ -10,6 +10,9 @@ C Tutorials and Courses
 The Archive of Interesting Code
 - The Archive of Interesting Code is an effort on my part to code up interesting algorithms and data structures. https://www.keithschwarz.com/interesting/
 
+Ray Tracing in pure CMake
+- A basic whitted ray tracer, complete with multicore rendering, written in 100% pure CMake https://64.github.io/cmake-raytracer/
+
 Garbage Collection Algorithms
 - http://dmitrysoshnikov.com/courses/essentials-of-garbage-collectors/
   - Writing a Memory Allocator
