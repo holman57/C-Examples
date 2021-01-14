@@ -96,6 +96,7 @@ XTensor
 
 ### Articles
 
+1. Cross-language interfaces between C and C++ https://gustedt.wordpress.com/2017/08/08/cross-language-interfaces-between-c-and-c/
 1. Is the C runtime and library a legitimate part of the Unix API? https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIAndCRuntime
 1. What does I/O bound really mean? Erik Engbrecht's Blog http://erikengbrecht.blogspot.com/2008/06/what-does-io-bound-really-mean.html?m=1
 1. The Jim Roskind C/C++ Grammar https://blog.robertelder.org/jim-roskind-grammar/
