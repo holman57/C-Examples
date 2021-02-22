@@ -83,6 +83,9 @@ RISC-V userspace emulator library
 A little puzzle with printf() and C argument passing
 - https://utcc.utoronto.ca/~cks/space/blog/programming/PrintfAndArgumentPassing
 
+Nuklear 
+- A minimal-state, immediate-mode graphical user interface toolkit written in ANSI C and licensed under public domain. It was designed as a simple embeddable user interface for application and does not have any dependencies https://github.com/Immediate-Mode-UI/Nuklear
+
 ---
 
 ### Linear Algebra
