@@ -45,6 +45,9 @@ Cosmopolitan libc
 concurrencpp, the C++ concurrency library
 - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines. https://github.com/David-Haim/concurrencpp
 
+Choosing Java instead of C++ for low-latency systems
+- When it comes to developing low latency software systems, the received wisdom is that you would be crazy to use anything but C++ because anything else has too high a latency. https://stackoverflow.blog/2021/02/22/choosing-java-instead-of-c-for-low-latency-systems/
+
 ---
 
 How Does a C Debugger Work? (GDB Ptrace/x86 example)
