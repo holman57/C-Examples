@@ -121,6 +121,7 @@ XTensor
 
 ### Papers
 
+1. Some Were Meant for C https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf
 1. The Evolution of C Programming Practices: A Study of the Unix Operating System 1973-2015 https://ieeexplore.ieee.org/abstract/document/7886953
 1. C source-to-source compiler enhancement from within https://hal.inria.fr/hal-02998412
 1. Compiling without Continuations https://dl.acm.org/doi/10.1145/3062341.3062380
