@@ -39,6 +39,9 @@ C++: The Good Parts
 Orthodox C++
 - Orthodox C++ (sometimes referred as C+) is minimal subset of C++ that improves C, but avoids all unnecessary things from so called Modern C++. https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b#file-orthodoxc-md
 
+How C++ Resolves a Function Call
+- C is a simple language. You’re only allowed to have one function with each name. C++, on the other hand, gives you much more flexibility. https://preshing.com/20210315/how-cpp-resolves-a-function-call/
+
 Cosmopolitan libc
 - Build-once run-anywhere c without devops https://justine.lol/cosmopolitan/index.html
 
