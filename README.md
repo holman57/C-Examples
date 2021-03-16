@@ -42,6 +42,9 @@ Orthodox C++
 How C++ Resolves a Function Call
 - C is a simple language. You’re only allowed to have one function with each name. C++, on the other hand, gives you much more flexibility. https://preshing.com/20210315/how-cpp-resolves-a-function-call/
 
+Conan - A package manager for C/C++
+- Conan is a software package manager for C and C++ developers. https://en.terminalroot.com.br/conan-a-package-manager-for-cc/
+
 Cosmopolitan libc
 - Build-once run-anywhere c without devops https://justine.lol/cosmopolitan/index.html
 
