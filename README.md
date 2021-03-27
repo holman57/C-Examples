@@ -33,6 +33,9 @@ Getting started with C programming
 Learn C
 - As C is a veteran programming languages there are tons of C communities, forums and tutorials. Top 10 Best C Tutorials. https://medium.com/hackr-io/learn-c-best-c-tutorials-for-beginners-949835f3f20a
 
+How to implement a hash table (in C)
+- An explanation of how to implement a simple hash table data structure using the C programming language. https://benhoyt.com/writings/hash-table-in-c/
+
 C++: The Good Parts
 - Jordan DeLong overviews the past, current and near future "good parts" of C++'s functional side through the colored lens of his biases. https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus
 
