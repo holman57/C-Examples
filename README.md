@@ -111,6 +111,7 @@ XTensor
 
 ### Articles
 
+1. A "BETTER C" BENCHMARK https://zserge.com/posts/better-c-benchmark/
 1. Making Your Own Container Compatible With C++20 Ranges https://www.reedbeta.com/blog/ranges-compatible-containers/
 1. Parsing floating-point numbers really fast in C# https://lemire.me/blog/2021/02/22/parsing-floating-point-numbers-really-fast-in-c/
 1. David Mazieres' tutorial and take on C++20 coroutines https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
