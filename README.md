@@ -111,6 +111,7 @@ XTensor
 
 ### Articles
 
+1. How you can handle The Diamond with CMake http://beza1e1.tuxen.de/cmake_diamond.html
 1. A "BETTER C" BENCHMARK https://zserge.com/posts/better-c-benchmark/
 1. Making Your Own Container Compatible With C++20 Ranges https://www.reedbeta.com/blog/ranges-compatible-containers/
 1. Parsing floating-point numbers really fast in C# https://lemire.me/blog/2021/02/22/parsing-floating-point-numbers-really-fast-in-c/
