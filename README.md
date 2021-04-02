@@ -10,8 +10,8 @@ C Tutorials and Courses
 The Archive of Interesting Code
 - The Archive of Interesting Code is an effort on my part to code up interesting algorithms and data structures. https://www.keithschwarz.com/interesting/
 
-Ray Tracing in pure CMake
-- A basic whitted ray tracer, complete with multicore rendering, written in 100% pure CMake https://64.github.io/cmake-raytracer/
+Summary of C/C++ integer rules
+- A basic integer type is specified using some legal sequence of keywords drawn from the set {char, short, int, long, signed, unsigned}. https://www.nayuki.io/page/summary-of-c-cpp-integer-rules
 
 Garbage Collection Algorithms
 - http://dmitrysoshnikov.com/courses/essentials-of-garbage-collectors/
@@ -56,6 +56,9 @@ concurrencpp, the C++ concurrency library
 
 Choosing Java instead of C++ for low-latency systems
 - When it comes to developing low latency software systems, the received wisdom is that you would be crazy to use anything but C++ because anything else has too high a latency. https://stackoverflow.blog/2021/02/22/choosing-java-instead-of-c-for-low-latency-systems/
+
+Ray Tracing in pure CMake
+- A basic whitted ray tracer, complete with multicore rendering, written in 100% pure CMake https://64.github.io/cmake-raytracer/
 
 ---
 
