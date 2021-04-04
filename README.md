@@ -101,6 +101,9 @@ A little puzzle with printf() and C argument passing
 Nuklear 
 - A minimal-state, immediate-mode graphical user interface toolkit written in ANSI C and licensed under public domain. It was designed as a simple embeddable user interface for application and does not have any dependencies https://github.com/Immediate-Mode-UI/Nuklear
 
+enkiTS: A C and C++ Task Scheduler for creating parallel programs
+- A permissively licensed C and C++ Task Scheduler for creating parallel programs. https://github.com/dougbinks/enkiTS
+
 ---
 
 ### Linear Algebra
