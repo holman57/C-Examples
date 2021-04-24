@@ -144,6 +144,7 @@ XTensor
 
 ### Papers
 
+1. Improve type generic programming proposal for C23 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2638.pdf
 1. Toward Unseating the Unsafe C Programming Language https://www.computer.org/csdl/magazine/sp/2021/02/09382362/1saZSnqpzz2
 1. Some Were Meant for C https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf
 1. The Evolution of C Programming Practices: A Study of the Unix Operating System 1973-2015 https://ieeexplore.ieee.org/abstract/document/7886953
