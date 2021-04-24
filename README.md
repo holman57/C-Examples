@@ -151,3 +151,9 @@ XTensor
 1. HardBound: Architectural Support for Spatial Safety of the C Programming Language https://dl.acm.org/doi/pdf/10.1145/1353535.1346295
 1. Program Analysis and Specialization for the C Programming Language https://www.semanticscholar.org/paper/Program-Analysis-and-Specialization-for-the-C-Andersen-Lee/b7efe971a34a0f2482e0b2520ffb31062dcdde62
 1. The Semantics of the C Programming Language http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6755&rep=rep1&type=pdf
+
+---
+
+### Books
+
+1. Beej’s Guide to C Programming http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf
