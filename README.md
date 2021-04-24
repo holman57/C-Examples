@@ -63,8 +63,6 @@ Choosing Java instead of C++ for low-latency systems
 Ray Tracing in pure CMake
 - A basic whitted ray tracer, complete with multicore rendering, written in 100% pure CMake https://64.github.io/cmake-raytracer/
 
----
-
 How Does a C Debugger Work? (GDB Ptrace/x86 example)
 - Linux ptrace API allows a (debugger) process to access low-level information about another process (the debuggee). https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work
 
@@ -106,6 +104,9 @@ Nuklear
 
 enkiTS: A C and C++ Task Scheduler for creating parallel programs
 - A permissively licensed C and C++ Task Scheduler for creating parallel programs. https://github.com/dougbinks/enkiTS
+
+Alternative operator representations
+- C++ defines the following alternatives composed of ISO 646 compatible characters. https://en.cppreference.com/w/cpp/language/operator_alternative
 
 ---
 
