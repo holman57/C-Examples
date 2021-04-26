@@ -121,6 +121,7 @@ XTensor
 
 ### Articles
 
+1. Modern C++ Won't Save Us https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/
 1. Learn X in Y minutes https://learnxinyminutes.com/docs/c/
 1. How you can handle The Diamond with CMake http://beza1e1.tuxen.de/cmake_diamond.html
 1. A "BETTER C" BENCHMARK https://zserge.com/posts/better-c-benchmark/
