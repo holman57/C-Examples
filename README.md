@@ -145,6 +145,7 @@ XTensor
 
 ### Papers
 
+1. SIMD for C++ Developers http://const.me/articles/simd/simd.pdf
 1. Improve type generic programming proposal for C23 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2638.pdf
 1. Toward Unseating the Unsafe C Programming Language https://www.computer.org/csdl/magazine/sp/2021/02/09382362/1saZSnqpzz2
 1. Some Were Meant for C https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf
