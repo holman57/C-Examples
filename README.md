@@ -121,6 +121,7 @@ XTensor
 
 ### Articles
 
+1. Undefined behavior in C is a reading error. https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/ 
 1. Instant replay: Debugging C and C++ programs with rr https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/
 1. C++ Constructors, Memory, and Lifetimes https://erikmcclure.com/blog/cpp-constructors-memory-and-lifetimes/
 1. Modern C++ Won't Save Us https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/
