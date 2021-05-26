@@ -121,7 +121,10 @@ XTensor
 
 ### Articles
 
-1. Modern C for C++ Peeps https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html
+1. Undefined behavior in C is a reading error. https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/ 
+1. Instant replay: Debugging C and C++ programs with rr https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/
+1. C++ Constructors, Memory, and Lifetimes https://erikmcclure.com/blog/cpp-constructors-memory-and-lifetimes/
+1. Modern C++ Won't Save Us https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/
 1. Learn X in Y minutes https://learnxinyminutes.com/docs/c/
 1. How you can handle The Diamond with CMake http://beza1e1.tuxen.de/cmake_diamond.html
 1. A "BETTER C" BENCHMARK https://zserge.com/posts/better-c-benchmark/
@@ -145,6 +148,7 @@ XTensor
 
 ### Papers
 
+1. SIMD for C++ Developers http://const.me/articles/simd/simd.pdf
 1. Improve type generic programming proposal for C23 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2638.pdf
 1. Toward Unseating the Unsafe C Programming Language https://www.computer.org/csdl/magazine/sp/2021/02/09382362/1saZSnqpzz2
 1. Some Were Meant for C https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf
