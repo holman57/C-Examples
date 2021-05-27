@@ -121,6 +121,7 @@ XTensor
 
 ### Articles
 
+1. Why I still like C and strongly dislike C++ https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/
 1. Modern C for C++ Peeps https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html
 1. Undefined behavior in C is a reading error. https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/ 
 1. Instant replay: Debugging C and C++ programs with rr https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/
