@@ -127,6 +127,7 @@ XTensor
 
 ### Articles
 
+1. Goodbye C++, Hello C https://momentsingraphics.de/ToyRenderer1KeepItSimple.html
 1. Summer 2021 ISO C++ standards meeting https://herbsutter.com/2021/06/09/trip-report-summer-2021-iso-c-standards-meeting-virtual/
 1. Why I still like C and strongly dislike C++ https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/
 1. Modern C for C++ Peeps https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html
