@@ -117,6 +117,9 @@ Althttpd: The Althttpd Webserver
 
 - Are there any C++ (or C) libs that have NumPy-like arrays with support for slicing, vectorized operations, adding and subtracting contents element-by-element, etc.? https://stackoverflow.com/questions/11169418/numpy-style-arrays-for-c/40448758
 
+Eigen
+- Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. http://eigen.tuxfamily.org/ https://gitlab.com/libeigen/eigen
+
 XTensor
 - Linear Algebra In C++ With XTensor Is Just Like Numpy https://towardsdatascience.com/linear-algebra-in-c-with-xtensor-is-just-like-numpy-1a6b1ee00736
 
