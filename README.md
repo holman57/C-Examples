@@ -54,6 +54,9 @@ Conan - A package manager for C/C++
 Cosmopolitan libc
 - Build-once run-anywhere c without devops https://justine.lol/cosmopolitan/index.html
 
+CompCert
+- The CompCert C verified compiler is a compiler for a large subset of the C programming language that generates code for the PowerPC, ARM, x86 and RISC-V processors. https://github.com/AbsInt/CompCert
+
 concurrencpp, the C++ concurrency library
 - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines. https://github.com/David-Haim/concurrencpp
 
