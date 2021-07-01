@@ -96,6 +96,9 @@ chibicc: A Small C Compiler
 Frama-C
 - An extensible and collaborative platform dedicated to source-code analysis of C software. http://frama-c.com/index.html
 
+ztd.text and Unicode for C++
+- The goal of the library is simple: text encoding, decoding, transcoding, and related operations are single function calls, entirely painless, and infinitely extensible. https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp https://github.com/soasis/text
+
 RISC-V userspace emulator library
 - https://github.com/fwsGonzo/libriscv
 
