@@ -115,8 +115,11 @@ Alternative operator representations
 - C++ defines the following alternatives composed of ISO 646 compatible characters. https://en.cppreference.com/w/cpp/language/operator_alternative
 
 Althttpd: The Althttpd Webserver
-
 - Althttpd is a simple webserver that has run the https://sqlite.org/ website since 2004. Althttpd strives for simplicity, security, and low resource usage. https://sqlite.org/althttpd/doc/trunk/althttpd.md
+
+Let's Build a Simple Database
+- Writing a sqlite clone from scratch in C https://cstack.github.io/db_tutorial/
+
 ---
 
 ### Linear Algebra
