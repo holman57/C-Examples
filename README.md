@@ -133,6 +133,7 @@ XTensor
 
 ### Articles
 
+1. When static makes your C code 10 times faster https://mazzo.li/posts/c-performance-anecdote.html
 1. Correctly implementing a spinlock in C++ https://rigtorp.se/spinlock/
 1. Goodbye C++, Hello C https://momentsingraphics.de/ToyRenderer1KeepItSimple.html
 1. Summer 2021 ISO C++ standards meeting https://herbsutter.com/2021/06/09/trip-report-summer-2021-iso-c-standards-meeting-virtual/
