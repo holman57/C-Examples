@@ -39,6 +39,9 @@ How to implement a hash table (in C)
 Type-safe generic data structures in C
 - The rise of a new generation of low-level programming languages like Rust, Go and Zig has caused C and its primitive type system to fall into some disrepute. https://iafisher.com/blog/2020/06/type-safe-generics-in-c
 
+Synthetic Separation Logic
+- Synthesis of Heap-Manipulating Programs from Separation Logic Specifications https://github.com/TyGuS/suslik/tree/certification
+
 C++: The Good Parts
 - Jordan DeLong overviews the past, current and near future "good parts" of C++'s functional side through the colored lens of his biases. https://www.infoq.com/presentations/c-plus-plus-pros/?itm_source=presentations_about_CPlusPlus
 
