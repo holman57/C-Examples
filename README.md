@@ -139,6 +139,7 @@ XTensor
 
 ### Articles
 
+1. Goodbye C developers: The future of programming with certified program synthesis https://gopiandcode.uk/logs/log-certified-synthesis.html
 1. When static makes your C code 10 times faster https://mazzo.li/posts/c-performance-anecdote.html
 1. Correctly implementing a spinlock in C++ https://rigtorp.se/spinlock/
 1. Goodbye C++, Hello C https://momentsingraphics.de/ToyRenderer1KeepItSimple.html
