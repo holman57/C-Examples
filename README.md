@@ -189,4 +189,5 @@ XTensor
 
 ### Books
 
+1. Thriving in a Crowded and Changing World: C++ 2006–2020 https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf
 1. Beej’s Guide to C Programming http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf
