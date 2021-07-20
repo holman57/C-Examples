@@ -139,6 +139,7 @@ XTensor
 
 ### Articles
 
+1. C++ Dev Ecosystem 2021 https://www.jetbrains.com/lp/devecosystem-2021/cpp/
 1. Metaprogramming custom control structures in C https://www.chiark.greenend.org.uk/~sgtatham/mp/
 1. Goodbye C developers: The future of programming with certified program synthesis https://gopiandcode.uk/logs/log-certified-synthesis.html
 1. When static makes your C code 10 times faster https://mazzo.li/posts/c-performance-anecdote.html
