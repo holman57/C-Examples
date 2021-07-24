@@ -36,6 +36,9 @@ Learn C
 How to implement a hash table (in C)
 - An explanation of how to implement a simple hash table data structure using the C programming language. https://benhoyt.com/writings/hash-table-in-c/
 
+Modern C++ for C Programmers: part 1
+- C and C++ are actually very close relatives, to the point that many compilers have unified infrastructure for both languages. https://berthub.eu/articles/posts/c++-1/
+
 Type-safe generic data structures in C
 - The rise of a new generation of low-level programming languages like Rust, Go and Zig has caused C and its primitive type system to fall into some disrepute. https://iafisher.com/blog/2020/06/type-safe-generics-in-c
 
