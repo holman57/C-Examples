@@ -7,6 +7,9 @@ hackr.io
 C Tutorials and Courses
 - https://hackr.io/tutorials/learn-c
 
+The Descent to C
+- This article attempts to give a sort of ‘orientation tour’ for people whose previous programming background is in high (ish) level languages such as Java or Python, and who now find that they need or want to learn C. https://www.chiark.greenend.org.uk/~sgtatham/cdescent/
+
 The Archive of Interesting Code
 - The Archive of Interesting Code is an effort on my part to code up interesting algorithms and data structures. https://www.keithschwarz.com/interesting/
 
