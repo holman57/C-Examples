@@ -5,4 +5,8 @@
 .idea/modules.xml
 .idea/vcs.xml
 .vcs/
-
+.sln
+*.sln
+*.vcxproj
+*.filters
+*.user
