@@ -10,3 +10,12 @@
 *.vcxproj
 *.filters
 *.user
+*.vsidx
+*.lock
+*.suo
+.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
