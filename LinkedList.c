@@ -1,38 +1,32 @@
-#import <stdio.h>
-#import <stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 struct ListNode {
      int val;
      struct ListNode *next;
- };
+};
  
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
-    struct ListNode* r = malloc(sizeof(struct ListNode));
-    r->val = 0;
-    r->next = NULL;
-    struct ListNone* init = r;
-    while(l1 || l2) {
-        if(l1) {
-            r->val += l1->val;
-            l1 = l1->next;
-        }
-        if(l2) {
-            r->val += l2->val;
-            l2 = l2->next;
-        }
-        if((r->val > 9) || l1 || l2) {
-            struct ListNode* next = malloc(sizeof(struct ListNode));
-            next->val = 0;
-            next->next = NULL;
-            if(r->val > 9) {
-                r->val = r->val - 10;
-                next->val += 1;
-            }
-            r->next = next;
-            r = next;
-        }
+    struct ListNode* head = malloc(sizeof(struct ListNode));
+    struct ListNode* tail = head;
+    head->val = 0;
+    head->next = tail;
+    int carry = 0;
+    while (l1 != NULL || l2 != NULL || carry != 0) {
+        int digit1 = (l1 != NULL) ? l1->val : 0;
+        int digit2 = (l2 != NULL) ? l2->val : 0;
+        int sum = digit1 + digit2 + carry;
+        int resultDigit = sum % 10;
+        carry = (int)(sum / 10);
+        struct ListNode* node = malloc(sizeof(struct ListNode));
+        node->val = resultDigit;
+        if (l1 != NULL) l1 = l1->next; else NULL;
+        if (l2 != NULL) l2 = l2->next; else NULL;
+        tail->next = node;
+        tail = tail->next;
     }
-    return init;
+    tail->next = NULL;
+    return head->next;
 }
 
 int main() {
@@ -55,12 +49,12 @@ int main() {
     i5->val = 4;
     i4->next = i5;
     i5->next = NULL;
-    
+
     struct ListNode* l3 = addTwoNumbers(l1, l2);
     while (l3 != NULL) {
         printf("%d\n", l3->val);
         l3 = l3->next;
     }
-    
+
     return 0;
 }
