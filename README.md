@@ -177,6 +177,7 @@ XTensor
 1. Multi-Level Break in C++ via IIFE https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife
 1. Fast programming languages: C, C++, Rust, and Assembly http://tempesta-tech.com/blog/fast-programming-languages-c-c++-rust-assembly
 1. Why nullable types? https://medium.com/dartlang/why-nullable-types-7dd93c28c87a
+2. Qt and Trivial Relocation https://www.kdab.com/qt-and-trivial-relocation-part-1/
 
 ---
 
