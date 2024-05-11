@@ -35,7 +35,7 @@ typedef struct HashTable
 
 LinkedList* allocate_list(void)
 {
-    LinkedList* list = (LinkedList*)malloc(sizeof(LinkedList));
+    LinkedList* list = (LinkedList*) malloc(sizeof(LinkedList));
     return list;
 }
 
@@ -99,7 +99,7 @@ void free_linkedlist(LinkedList* list)
 
 LinkedList** create_overflow_buckets(HashTable* table)
 {
-    LinkedList** buckets = (LinkedList**)calloc(table->size, sizeof(LinkedList*));
+    LinkedList** buckets = (LinkedList**) calloc(table->size, sizeof(LinkedList*));
     for (int i = 0; i < table->size; i++) buckets[i] = NULL;
     return buckets;
 }
@@ -113,9 +113,9 @@ void free_overflow_buckets(HashTable* table)
 
 Ht_item* create_item(char* key, char* value)
 {
-    Ht_item* item = (Ht_item*)malloc(sizeof(Ht_item));
-    item->key = (char*)malloc(strlen(key) + 1);
-    item->value = (char*)malloc(strlen(value) + 1);
+    Ht_item* item = (Ht_item*) malloc(sizeof(Ht_item));
+    item->key = (char*) malloc(strlen(key) + 1);
+    item->value = (char*) malloc(strlen(value) + 1);
     strcpy(item->key, key);
     strcpy(item->value, value);
     return item;
@@ -123,7 +123,7 @@ Ht_item* create_item(char* key, char* value)
 
 HashTable* create_table(int size)
 {
-    HashTable* table = (HashTable*)malloc(sizeof(HashTable));
+    HashTable* table = (HashTable*) malloc(sizeof(HashTable));
     table->size = size;
     table->count = 0;
     table->items = (Ht_item**)calloc(table->size, sizeof(Ht_item*));
@@ -171,7 +171,7 @@ void handle_collision(HashTable* table, unsigned long index, Ht_item* item)
 void ht_insert(HashTable* table, char* key, char* value)
 {
     Ht_item* item = create_item(key, value);
-    int index = (int)hash_function(key);
+    int index = (int) hash_function(key);
     Ht_item* current_item = table->items[index];
     if (current_item == NULL)
     {
@@ -201,7 +201,7 @@ void ht_insert(HashTable* table, char* key, char* value)
 
 char* ht_search(HashTable* table, char* key)
 {
-    int index = (int)hash_function(key);
+    int index = (int) hash_function(key);
     Ht_item* item = table->items[index];
     LinkedList* head = table->overflow_buckets[index];
     if (item != NULL)
@@ -216,7 +216,7 @@ char* ht_search(HashTable* table, char* key)
 
 void ht_delete(HashTable* table, char* key)
 {
-    int index = (int)hash_function(key);
+    int index = (int) hash_function(key);
     Ht_item* item = table->items[index];
     LinkedList* head = table->overflow_buckets[index];
     if (item == NULL)
@@ -303,18 +303,18 @@ void print_table(HashTable* table)
 int main(void)
 {
     HashTable* ht = create_table(CAPACITY);
-    ht_insert(ht, (char*)"1", (char*)"First address");
-    ht_insert(ht, (char*)"2", (char*)"Second address");
-    ht_insert(ht, (char*)"Hel", (char*)"Third address");
-    ht_insert(ht, (char*)"Cau", (char*)"Fourth address");
-    print_search(ht, (char*)"1");
-    print_search(ht, (char*)"2");
-    print_search(ht, (char*)"3");
-    print_search(ht, (char*)"Hel");
-    print_search(ht, (char*)"Cau");
+    ht_insert(ht, (char*) "1", (char*) "First address");
+    ht_insert(ht, (char*) "2", (char*) "Second address");
+    ht_insert(ht, (char*) "Hel", (char*) "Third address");
+    ht_insert(ht, (char*) "Cau", (char*) "Fourth address");
+    print_search(ht, (char*) "1");
+    print_search(ht, (char*) "2");
+    print_search(ht, (char*) "3");
+    print_search(ht, (char*) "Hel");
+    print_search(ht, (char*) "Cau");
     print_table(ht);
-    ht_delete(ht, (char*)"1");
-    ht_delete(ht, (char*)"Cau");
+    ht_delete(ht, (char*) "1");
+    ht_delete(ht, (char*) "Cau");
     print_table(ht);
     free_table(ht);
     return 0;

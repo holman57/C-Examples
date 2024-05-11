@@ -33,7 +33,7 @@ typedef struct HashTable
 
 LinkedList *allocate_list(void)
 {
-    LinkedList *list = (LinkedList *)malloc(sizeof(LinkedList));
+    LinkedList *list = (LinkedList *) malloc(sizeof(LinkedList));
     return list;
 }
 
@@ -97,7 +97,7 @@ void free_linkedlist(LinkedList *list)
 
 LinkedList **create_overflow_buckets(HashTable *table)
 {
-    LinkedList **buckets = (LinkedList **)calloc(table->size, sizeof(LinkedList *));
+    LinkedList **buckets = (LinkedList **) calloc(table->size, sizeof(LinkedList *));
     for (int i = 0; i < table->size; i++) buckets[i] = NULL;
     return buckets;
 }
@@ -111,9 +111,9 @@ void free_overflow_buckets(HashTable *table)
 
 Ht_item *create_item(char *key, char *value)
 {
-    Ht_item *item = (Ht_item *)malloc(sizeof(Ht_item));
-    item->key = (char *)malloc(strlen(key) + 1);
-    item->value = (char *)malloc(strlen(value) + 1);
+    Ht_item *item = (Ht_item *) malloc(sizeof(Ht_item));
+    item->key = (char *) malloc(strlen(key) + 1);
+    item->value = (char *) malloc(strlen(value) + 1);
     strcpy(item->key, key);
     strcpy(item->value, value);
     return item;
@@ -121,10 +121,10 @@ Ht_item *create_item(char *key, char *value)
 
 HashTable *create_table(int size)
 {
-    HashTable *table = (HashTable *)malloc(sizeof(HashTable));
+    HashTable *table = (HashTable *) malloc(sizeof(HashTable));
     table->size = size;
     table->count = 0;
-    table->items = (Ht_item **)calloc(table->size, sizeof(Ht_item *));
+    table->items = (Ht_item **) calloc(table->size, sizeof(Ht_item *));
     for (int i = 0; i < table->size; i++) table->items[i] = NULL;
     table->overflow_buckets = create_overflow_buckets(table);
     return table;
@@ -292,7 +292,7 @@ void print_table(HashTable *table)
     {
         if (table -> items[i])
         {
-            printf("Index:%d, Key:%s, Value:%s\n", i, table -> items[i] -> key, table -> items[i] -> value);
+            printf("Index:%d, Key:%s, Value:%s\n", i, table->items[i]->key, table->items[i]->value);
         }
     }
     printf("-------------------\n\n");
