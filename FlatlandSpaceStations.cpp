@@ -6,8 +6,23 @@ vector<string> split_string(string);
 
 // Complete the flatlandSpaceStations function below.
 int flatlandSpaceStations(int n, vector<int> c) {
+    // Step 1: Sort the space stations
+    sort(c.begin(), c.end());
 
+    // Step 2: Handle the maximum distance
+    int max_distance = 0;
 
+    // Step 3: Check distance for cities without stations at the outer edges
+    max_distance = max(max_distance, c[0]); // From city 0 to the first station
+    max_distance = max(max_distance, (n - 1) - c.back()); // From last city to the last station
+
+    // Step 4: Check for maximum distances between two space stations
+    for (size_t i = 1; i < c.size(); i++) {
+        int distance_between_stations = c[i] - c[i - 1];
+        max_distance = max(max_distance, distance_between_stations / 2); // Midpoint
+    }
+
+    return max_distance;
 }
 
 int main()
